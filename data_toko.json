@@ -1,0 +1,32 @@
+[
+    {
+        "kode": "B001",
+        "nama": "Beras 5 Kg",
+        "harga": 68000,
+        "stok": 20
+    },
+    {
+        "kode": "B002",
+        "nama": "Minyak Goreng 1 L",
+        "harga": 18000,
+        "stok": 28
+    },
+    {
+        "kode": "B003",
+        "nama": "Gula Pasir 1 Kg",
+        "harga": 16000,
+        "stok": 23
+    },
+    {
+        "kode": "B004",
+        "nama": "Telur 1 Kg",
+        "harga": 29000,
+        "stok": 10
+    },
+    {
+        "kode": "B005",
+        "nama": "Mie Instan",
+        "harga": 3500,
+        "stok": 90
+    }
+]
