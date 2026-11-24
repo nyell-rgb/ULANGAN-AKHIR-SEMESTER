@@ -1,14 +1,6 @@
 """
 UAS Praktek Pemrograman Dasar - Politeknik Negeri Samarinda
 Proyek Mikro : Aplikasi Kasir & Inventaris Toko Kecil (GUI Tkinter)
-
-Materi yang diterapkan:
-1. Struktur data  = list, dictionary, tuple
-2. Fungsi         = logika program dipisah dalam fungsi-fungsi
-3. Pengkondisian  = validasi input, stok, diskon bertingkat (if/elif/else)
-4. Perulangan     = for / sum() / generator
-5. Error handling = try / except / raise
-6. File           = simpan & muat data (JSON)
 """
 
 import json
